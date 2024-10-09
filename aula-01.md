@@ -39,12 +39,10 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
 
 Com o Homebrew instalado, execute o seguinte comando no terminal WSL:
 
-bash
-
-Copiar código
-
-`brew tap laravel/legacy
+```bash
+brew tap laravel/legacy
 brew install laravel/herd/herd` 
+```
 
 ### Instalar o Laravel Herd default
 
