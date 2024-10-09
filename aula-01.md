@@ -113,11 +113,10 @@ O servidor deve estar disponível em `http://localhost:8000`.
 
 ### Instalar [livewire](https://laravel-livewire.com/docs/2.x/quickstart)
 
-![image](https://github.com/user-attachments/assets/6ca7e3a9-64a8-4c41-81d6-1e2f3f0dc233)
-![image](https://github.com/user-attachments/assets/899935af-bcc7-45ec-9a6c-c1af41f706c3)
-![image](https://github.com/user-attachments/assets/8cdb7d5b-2e35-48b2-9aeb-099080a8f670)
-![image](https://github.com/user-attachments/assets/b3a47f3d-bcaa-49d2-8692-4564e823fbdd)
-
+![image](https://github.com/user-attachments/assets/13e415b8-71d8-4497-84d5-309c240e9263)
+![image](https://github.com/user-attachments/assets/eb8b3eaf-5a66-41c1-9e35-da2994685bc1)
+![image](https://github.com/user-attachments/assets/bb76bd31-489d-4255-87bb-4f053d015361)
+![image](https://github.com/user-attachments/assets/1a21a2fa-ab47-4210-9d2b-ae372e2e45db)
 
 #### Para Instalar 'Versões'
 
