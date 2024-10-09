@@ -19,8 +19,10 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
 1. Abra o PowerShell como Administrador.
 2. Execute o seguinte comando para instalar o WSL:
 
-   ```bash
+```bash
    wsl --install
+```
+
 3.  Reinicie seu computador se solicitado.
 
 ### Instalar o Homebrew
@@ -29,12 +31,9 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
     
 2.  Execute o seguinte comando para instalar o Homebrew:
     
-    bash
-    
-    Copiar código
-    
-    `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
-    
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```    
 
 ### Instalar o Laravel Herd via CLI
 
