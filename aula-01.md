@@ -119,3 +119,11 @@ O servidor deve estar disponível em `http://localhost:8000`.
 
 ![image](https://github.com/user-attachments/assets/e009c2c4-11e6-4aa0-be09-c523e16768bc)
 ![image](https://github.com/user-attachments/assets/5869e756-73f7-4ed5-92af-436bd320a5dd)
+
+## Dúvidas e Suporte
+
+Se você tiver dúvidas, sinta-se à vontade para perguntar no grupo da comunidade [Rocketseat no Discord](https://discord.com/channels/327861810768117763/1292817017044340766) ou nos fóruns da Rocketseat.
+
+*Developer Instructor*  
+*[Rocketseat](https://app.rocketseat.com.br/?type=ALL)*    
+*[LinkedIn](https://www.linkedin.com/in/daniloopinheiro/)*
