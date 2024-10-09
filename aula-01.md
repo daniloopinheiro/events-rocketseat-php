@@ -100,7 +100,6 @@ Copiar código
 #### Abrir o Projeto pelo ´Herd´
 
 ![image](https://github.com/user-attachments/assets/8e1d34d0-9d42-47ee-baca-3c9dfee0c05e)
-![image](https://github.com/user-attachments/assets/24119219-7509-4b6c-8157-a74914b9c70a)
 
 ### Iniciar o Servidor via CLI
 
