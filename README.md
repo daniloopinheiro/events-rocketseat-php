@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à primeira aula do curso de PHP da Rocketseat! Nesta aula, vamos configurar o ambiente de desenvolvimento no Windows, focando na instalação do Laravel Herd.
+Bem-vindo ao guia das aulas do curso de PHP da Rocketseat! Nesta aula, vamos configurar o ambiente de desenvolvimento no Windows, com foco na instalação do Laravel Herd. Vamos garantir que você tenha tudo pronto para começar a desenvolver suas aplicações em PHP de forma eficiente e prática.
 
 ## Pré-requisitos
 
