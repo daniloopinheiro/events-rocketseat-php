@@ -8,32 +8,24 @@ Bem-vindo à primeira aula do curso de PHP da Rocketseat! Nesta aula, vamos conf
 
 Antes de começarmos, certifique-se de ter os seguintes itens instalados:
 
-1. **Windows**: Recomendado usar Windows 10 ou superior.
-2. **WSL (Windows Subsystem for Linux)**: Você pode instalar o WSL para facilitar a execução de comandos do Linux. Siga as instruções em [Documentação do WSL](https://docs.microsoft.com/pt-br/windows/wsl/install).
-3. **Homebrew**: Necessário para gerenciar pacotes no WSL. Se você ainda não tem, instale o Homebrew seguindo as instruções em [brew.sh](https://brew.sh/).
+1. **Node.js**
+   - **Instalação**: Baixe e instale a versão mais recente do [Node.js](https://nodejs.org/).
+   - **Verificação**: Após a instalação, você pode verificar se o Node.js está instalado corretamente rodando o comando no terminal:
+     ```bash
+     node -v
+     ```
+   - **npm**: O Node Package Manager (npm) é instalado junto com o Node.js. Verifique a versão do npm:
+     ```bash
+     npm -v
+     ```
 
-## Passos para Instalação do Laravel Herd
-
-### Instalar o WSL
-
-1. Abra o PowerShell como Administrador.
-2. Execute o seguinte comando para instalar o WSL:
-
-```bash
-   wsl --install
-```
-
-3.  Reinicie seu computador se solicitado.
-
-### Instalar o Homebrew
-
-1.  Abra o terminal WSL (Ubuntu ou outra distribuição que você tenha instalado).
-    
-2.  Execute o seguinte comando para instalar o Homebrew:
-    
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```    
+2. **PHP**
+   - **Instalação**: Baixe e instale a versão mais recente do [PHP](https://www.php.net/downloads). Dependendo do seu sistema operacional, você pode usar gerenciadores de pacotes como `apt` no Ubuntu ou `brew` no macOS.
+   - **Verificação**: Após a instalação, verifique se o PHP está instalado corretamente rodando:
+     ```bash
+     php -v
+     ```
+ 
 ## Aula 1
 
 ### Instalar o Laravel Herd via CLI
