@@ -34,7 +34,7 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```    
-## Aula 01
+## Aula 1
 
 ### Instalar o Laravel Herd via CLI
 
