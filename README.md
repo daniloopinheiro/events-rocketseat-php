@@ -12,11 +12,11 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
 2. **WSL (Windows Subsystem for Linux)**: Você pode instalar o WSL para facilitar a execução de comandos do Linux. Siga as instruções em [Documentação do WSL](https://docs.microsoft.com/pt-br/windows/wsl/install).
 3. **Homebrew**: Necessário para gerenciar pacotes no WSL. Se você ainda não tem, instale o Homebrew seguindo as instruções em [brew.sh](https://brew.sh/).
 
-## [Aula 1](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-01.md)
+- [Aula 1](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-01.md)
 
-## [Aula 2](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-02.md)
+- [Aula 2](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-02.md)
 
-## [Aula 3](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-03.md)
+- [Aula 3](https://github.com/daniloopinheiro/events-rocketseat-php/blob/main/aula-03.md)
 
 ## Dúvidas e Suporte
 
