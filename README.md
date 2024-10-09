@@ -90,7 +90,7 @@ Copiar código
 ![image](https://github.com/user-attachments/assets/be96ae8a-db74-4ea5-b504-bddf7f2c9825)
 ![image](https://github.com/user-attachments/assets/25d1b215-9f32-41f9-8a19-162afb5fa39d)
 
-👀
+👀 - Durante a execução do projeto, encontrei um erro informando que a porta especificada já estava em uso. Isso geralmente acontece quando outra aplicação ou serviço está utilizando a mesma porta. Minha solução foi a seguinte:
 
 ![image](https://github.com/user-attachments/assets/da6a7fb6-6167-4ae7-a143-1f02b5f8ab11)
 ![image](https://github.com/user-attachments/assets/66cd3afb-7323-4b48-b4ad-e5e67ef3cee4)
