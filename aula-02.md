@@ -26,4 +26,31 @@ Antes de começarmos, certifique-se de ter os seguintes itens instalados:
      php -v
      ```
 
+3. **Composer**
+   - **Instalação**: O Composer é um gerenciador de dependências para PHP. Você pode instalá-lo seguindo as instruções em [getcomposer.org](https://getcomposer.org/download/).
+   - **Verificação**: Após a instalação, verifique se o Composer está funcionando:
+     ```bash
+     composer -v
+     ```
+
+4. **Laravel**
+   - **Instalação**: Para criar novos projetos Laravel, você pode usar o Composer. Execute o seguinte comando para instalar o instalador do Laravel globalmente:
+     ```bash
+     composer global require laravel/installer
+     ```
+   - **Verificação**: Após a instalação, você pode verificar se o Laravel foi instalado corretamente:
+     ```bash
+     laravel --version
+     ```
+
+5. **Livewire**
+   - **Instalação**: Para usar o Livewire em um projeto Laravel existente, execute o seguinte comando dentro do diretório do seu projeto:
+     ```bash
+     composer require livewire/livewire
+     ```
+   - **Verificação**: Após a instalação, você pode verificar se o Livewire está funcionando corretamente ao criar um componente:
+     ```bash
+     php artisan make:livewire NomeDoComponente
+     ```
+
 ## Aulda 2
