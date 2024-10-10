@@ -88,10 +88,9 @@ Table proposls {
 
 ![image](https://github.com/user-attachments/assets/a9da839d-9762-4f39-ab42-c34e4bbac729)
 ![image](https://github.com/user-attachments/assets/ac5e198b-4446-416c-aaa0-d8952f9c0aa3)
-
-![image](https://github.com/user-attachments/assets/7fc1da98-b570-4351-bf02-823539bb420b)
-![image](https://github.com/user-attachments/assets/7bbdc949-1ebe-41ca-9119-029b0cc55d06)
-![image](https://github.com/user-attachments/assets/dc0c7c9f-77e4-4cc3-b02b-28c3f28dc3ac)
+![image](https://github.com/user-attachments/assets/d922da1b-269e-4969-9c7d-4cff2b2b6db0)
+![image](https://github.com/user-attachments/assets/fdef3444-4710-4330-b612-f4a030f3fe0f)
+![image](https://github.com/user-attachments/assets/99f8ba96-4071-444b-b996-25ace0762fea)
 ![image](https://github.com/user-attachments/assets/6b256fdc-1b2e-491e-829c-028ed9e8ea31)
 ![image](https://github.com/user-attachments/assets/c24f97a7-1474-4e2a-9565-23bd88dcf40a)
 ![image](https://github.com/user-attachments/assets/1a63a2f5-70bb-44b3-9d22-17b75584d113)
